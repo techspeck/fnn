@@ -196,3 +196,4 @@ Copyright © 2026 Rebwar
 See the LICENSE file for details.
 
 <img src="images/architecture.png" width="600" alt="Architecture Diagram">
+# fnn
